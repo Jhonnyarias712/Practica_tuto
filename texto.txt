@@ -1,0 +1,7 @@
+git status 
+git add 
+git commit -m "" 
+git push
+
+https://github.com/Jhonnyarias712/Practica_tuto.git
+pasos para controlar datos en github
